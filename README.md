@@ -1,1 +1,1 @@
-# StrippedDown-Optimised-WIndows
+This repository provides a collection of powerful PowerShell commands and prompts designed to optimise Windows by removing unnecessary bloat and clutter. Unlike pre-modified or “stripped-down” ISO files — which can sometimes contain hidden malware — this repo doesn’t supply an ISO image. Instead, it lets you safely execute the cleanup and optimisation process yourself, ensuring a leaner, faster, and more secure Windows optimisation.
